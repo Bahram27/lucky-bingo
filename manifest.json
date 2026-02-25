@@ -1,0 +1,18 @@
+{
+  "name": "Lucky Bingo",
+  "short_name": "Lucky Bingo",
+  "description": "Azərbaycanın ən yaxşı onlayn bingo oyunu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05030F",
+  "theme_color": "#A855F7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎱</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
